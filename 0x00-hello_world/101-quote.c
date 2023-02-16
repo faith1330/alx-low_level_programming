@@ -3,8 +3,8 @@
 
 /**
  * main - Entry point
- * Description : A C program that prints a line to the standard error
- * Return : 1 (Success)
+ * Description: A C program that prints a line to the standard error
+ * Return: 1 (Success)
  */
 
 int main(void)
